@@ -1,1 +1,1 @@
-:arrow_right: [aperturelab.io](https://aperturelab.io)
+[aperturelab.io](https://aperturelab.io)
